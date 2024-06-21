@@ -51,11 +51,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/IdentifiedObjectCollection/</loc>
-         <lastmod>2024-06-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/Integer/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
@@ -71,7 +66,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/NamedThing/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/Name/</loc>
+         <lastmod>2024-06-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/NameType/</loc>
+         <lastmod>2024-06-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/NameTypeAuthority/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -87,11 +92,6 @@
     </url>
     <url>
          <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/Objectidentifier/</loc>
-         <lastmod>2024-06-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/PersonStatus/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -126,12 +126,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/age_in_years/</loc>
-         <lastmod>2024-06-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/birth_date/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/alias_name/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -141,32 +136,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/entries/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/gegevensverstrekking-warmtetransitie/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/id/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/identified_object/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/im-gegevensverstrekking-warmtetransitie/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/m_rid/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/name/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/name_type/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/primary_email/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/name_type_authority/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/vital_status/</loc>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/name_types/</loc>
+         <lastmod>2024-06-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Netbeheer-Nederland.github.io/im-gegevensverstrekking-warmtetransitie/names/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
